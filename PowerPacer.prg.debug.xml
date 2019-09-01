@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="./source/PowerPacerApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="./source/PowerPacerApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="./source/PowerPacerApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="./source/PowerPacerApp.mc" id="4" lineNum="12" pc="268435483" symbol="onStart"/>
+        <entry filename="./source/PowerPacerApp.mc" id="5" lineNum="16" pc="268435507" symbol="onStop"/>
+        <entry filename="./source/PowerPacerApp.mc" id="5" lineNum="17" pc="268435511" symbol="onStop"/>
+        <entry filename="./source/PowerPacerApp.mc" id="6" lineNum="20" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="./source/PowerPacerApp.mc" id="6" lineNum="21" pc="268435539" symbol="onSettingsChanged"/>
+        <entry filename="./source/PowerPacerApp.mc" id="7" lineNum="25" pc="268435563" symbol="getInitialView"/>
+        <entry filename="./source/PowerPacerApp.mc" id="7" lineNum="26" pc="268435567" symbol="getInitialView"/>
+        <entry filename="./source/PowerPacerApp.mc" id="7" lineNum="27" pc="268435590" symbol="getInitialView"/>
+        <entry filename="./source/PowerPacerView.mc" id="9" lineNum="15" pc="268435628" symbol="initialize"/>
+        <entry filename="./source/PowerPacerView.mc" id="9" lineNum="16" pc="268435632" symbol="initialize"/>
+        <entry filename="./source/PowerPacerView.mc" id="9" lineNum="17" pc="268435650" symbol="initialize"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="20" pc="268435694" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="21" pc="268435698" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="22" pc="268435735" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="23" pc="268435783" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="25" pc="268435808" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="10" lineNum="27" pc="268435845" symbol="compute"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="30" pc="268435868" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="32" pc="268435872" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="34" pc="268435940" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="35" pc="268435953" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="36" pc="268435966" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="37" pc="268435979" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="38" pc="268435989" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="11" lineNum="40" pc="268435999" symbol="onUpdate"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="43" pc="268436041" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="44" pc="268436045" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="45" pc="268436062" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="47" pc="268436143" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="48" pc="268436269" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="49" pc="268436395" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="52" pc="268436471" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="53" pc="268436491" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="54" pc="268436528" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="56" pc="268436604" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="57" pc="268436641" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="59" pc="268436717" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="60" pc="268436754" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="62" pc="268436830" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="63" pc="268436867" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="65" pc="268436943" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="67" pc="268436974" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="68" pc="268436991" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="69" pc="268437052" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="70" pc="268437122" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="71" pc="268437199" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="74" pc="268437276" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="75" pc="268437283" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="76" pc="268437329" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="79" pc="268437360" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="80" pc="268437412" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="81" pc="268437437" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="82" pc="268437458" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="83" pc="268437506" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="84" pc="268437569" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="12" lineNum="85" pc="268437605" symbol="drawSpeed"/>
+        <entry filename="./source/PowerPacerView.mc" id="13" lineNum="89" pc="268437664" symbol="pol2Cart"/>
+        <entry filename="./source/PowerPacerView.mc" id="13" lineNum="90" pc="268437668" symbol="pol2Cart"/>
+        <entry filename="./source/PowerPacerView.mc" id="13" lineNum="91" pc="268437695" symbol="pol2Cart"/>
+        <entry filename="./source/PowerPacerView.mc" id="13" lineNum="93" pc="268437722" symbol="pol2Cart"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="11" symbol="SIZE"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="15" method="true" symbol="pol2Cart"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="20" symbol="speed_max_title"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="22" symbol="AppName"/>
+        <entry id="10" object="true" symbol="PowerPacerView"/>
+        <entry field="true" id="19" symbol="speed_min_title"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="14" method="true" symbol="drawSpeed"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry id="17" module="true" symbol="Layouts"/>
+        <entry field="true" id="8388721" symbol="min"/>
+        <entry id="9" object="true" symbol="PowerPacerApp"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="12" symbol="max"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry field="true" id="13" symbol="speedStr"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="21" symbol="speed_max_auto_title"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435507" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435535" name="state" stackId="1" startPc="268435507"/>
+        <entry endPc="268435868" name="info" stackId="1" startPc="268435694"/>
+        <entry endPc="268436040" name="x" stackId="5" startPc="268435872"/>
+        <entry endPc="268436040" name="height" stackId="4" startPc="268435872"/>
+        <entry endPc="268436040" name="flag" stackId="2" startPc="268435872"/>
+        <entry endPc="268436040" name="width" stackId="3" startPc="268435872"/>
+        <entry endPc="268436040" name="y" stackId="6" startPc="268435872"/>
+        <entry endPc="268436041" name="dc" stackId="1" startPc="268435868"/>
+        <entry endPc="268437663" name="radius" stackId="7" startPc="268436045"/>
+        <entry endPc="268437663" name="orientation" stackId="6" startPc="268436045"/>
+        <entry endPc="268437663" name="xy4" stackId="11" startPc="268436045"/>
+        <entry endPc="268437663" name="percent" stackId="5" startPc="268436045"/>
+        <entry endPc="268437663" name="xy3" stackId="10" startPc="268436045"/>
+        <entry endPc="268437663" name="xy2" stackId="9" startPc="268436045"/>
+        <entry endPc="268437663" name="xy1" stackId="8" startPc="268436045"/>
+        <entry endPc="268437664" name="x" stackId="3" startPc="268436041"/>
+        <entry endPc="268437664" name="battery" stackId="1" startPc="268436041"/>
+        <entry endPc="268437664" name="dc" stackId="2" startPc="268436041"/>
+        <entry endPc="268437664" name="y" stackId="4" startPc="268436041"/>
+        <entry endPc="268437783" name="x" stackId="5" startPc="268437668"/>
+        <entry endPc="268437783" name="y" stackId="6" startPc="268437668"/>
+        <entry endPc="268437784" name="radius" stackId="4" startPc="268437664"/>
+        <entry endPc="268437784" name="center_y" stackId="2" startPc="268437664"/>
+        <entry endPc="268437784" name="center_x" stackId="1" startPc="268437664"/>
+        <entry endPc="268437784" name="radian" stackId="3" startPc="268437664"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PowerPacerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PowerPacerApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PowerPacerApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="PowerPacerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PowerPacerApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PowerPacerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="PowerPacerView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PowerPacerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSpeed" parent="PowerPacerView">
+            <param id="battery"/>
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pol2Cart" parent="PowerPacerView">
+            <param id="center_x"/>
+            <param id="center_y"/>
+            <param id="radian"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="PowerPacerView" type="class"/>
+        <dataEntry offset="293" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="372" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="411" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="442" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="473" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="504" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="606" parentId="globals" symbolId="PowerPacerApp" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
